@@ -1,0 +1,9 @@
+{
+  "name": "tg-express-template-cli",
+  "version": "1.0.0",
+  "description": "Telegram Express Template",
+  "bin": {
+    "tg-express-template-cli": "./cli.js"
+  },
+  "license": "MIT"
+}
